@@ -1,0 +1,6 @@
+/cache/*
+/log/*
+/.idea
+/.svn
+/.history
+config/databases.yml
